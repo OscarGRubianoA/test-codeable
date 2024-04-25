@@ -109,4 +109,4 @@ let join=reverse.join("")
 }
 
 // No modifiques la siguiente linea:
-console.log(inverso("codensa"));
+inverso("codensa");
