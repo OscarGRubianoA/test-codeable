@@ -100,7 +100,7 @@ function filterNames(names, maxLength) {
 // No modifiques la siguiente linea:
 filterNames(names,5); */
 function inverso(palabra) {
-	let resultado = palabra.split("")
+let resultado = palabra.split("")
 let reverse=resultado.reverse()
 console.log(reverse)
 let join=reverse.join("")
