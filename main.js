@@ -103,7 +103,7 @@ function inverso(palabra) {
 let resultado = palabra.split("")
 let reverse=resultado.reverse()
 console.log(reverse)
-let join=reverse.join("")
+let join = reverse.join("")
 
  return join
 }
